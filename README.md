@@ -2,4 +2,4 @@
 Hello people!
 
 It's me learning Git!
-*_*
+\*_\*
